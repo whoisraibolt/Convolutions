@@ -25,7 +25,7 @@ You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "
 # Usage
 
 1. Install the dependencies;
-2. Open terminal and run .py file.
+2. Open terminal and run Convolutions.py file.
 
 # Credits
 
