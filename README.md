@@ -20,6 +20,8 @@ Convolved freature from the image:
 - scipy
 - numpy
 
+You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "pip").
+
 # Usage
 
 1. Install the dependencies;
