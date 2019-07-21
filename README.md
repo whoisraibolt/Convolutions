@@ -1,5 +1,10 @@
 # Convolutions
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Convolutions.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Convolutions.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Convolutions.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Convolutions.svg)
+
 Basic test with the main concept behind the Convolutional Neural Networks.
 
 ## Overview
